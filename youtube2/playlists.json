@@ -68,6 +68,11 @@
         "url": "https://i.ytimg.com/vi/31kszoAv7xI/maxresdefault.jpg",
         "width": 1280,
         "height": 720
+      },
+      "fhd": {
+        "url": "https://i.ytimg.com/vi/31kszoAv7xI/fhddefault.jpg",
+        "width": 1920,
+        "height": 1080
       }
     }
   },
@@ -418,6 +423,11 @@
         "url": "https://i.ytimg.com/vi/L7wcBl6FjPc/maxresdefault.jpg",
         "width": 1280,
         "height": 720
+      },
+      "uhd": {
+        "url": "https://i.ytimg.com/vi/L7wcBl6FjPc/uhddefault.jpg",
+        "width": 3840,
+        "height": 2160
       }
     }
   },

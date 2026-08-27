@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-26T16:16:19.698Z",
+  "fetchedAt": "2026-08-27T16:16:19.017Z",
   "channel": {
     "id": "UCCJ6yCY0Tc6EE1pbU13_NXA",
     "title": "國立臺北大學高齡與社區研究中心 ",
@@ -71,6 +71,11 @@
           "url": "https://i.ytimg.com/vi/L7wcBl6FjPc/maxresdefault.jpg",
           "width": 1280,
           "height": 720
+        },
+        "uhd": {
+          "url": "https://i.ytimg.com/vi/L7wcBl6FjPc/uhddefault.jpg",
+          "width": 3840,
+          "height": 2160
         }
       }
     },
@@ -107,6 +112,11 @@
           "url": "https://i.ytimg.com/vi/31kszoAv7xI/maxresdefault.jpg",
           "width": 1280,
           "height": 720
+        },
+        "fhd": {
+          "url": "https://i.ytimg.com/vi/31kszoAv7xI/fhddefault.jpg",
+          "width": 1920,
+          "height": 1080
         }
       }
     },
@@ -143,6 +153,11 @@
           "url": "https://i.ytimg.com/vi/8qwg8qJnHxk/maxresdefault.jpg",
           "width": 1280,
           "height": 720
+        },
+        "fhd": {
+          "url": "https://i.ytimg.com/vi/8qwg8qJnHxk/fhddefault.jpg",
+          "width": 1920,
+          "height": 1080
         }
       }
     },
@@ -2222,6 +2237,11 @@
           "url": "https://i.ytimg.com/vi/31kszoAv7xI/maxresdefault.jpg",
           "width": 1280,
           "height": 720
+        },
+        "fhd": {
+          "url": "https://i.ytimg.com/vi/31kszoAv7xI/fhddefault.jpg",
+          "width": 1920,
+          "height": 1080
         }
       }
     },
@@ -2572,6 +2592,11 @@
           "url": "https://i.ytimg.com/vi/L7wcBl6FjPc/maxresdefault.jpg",
           "width": 1280,
           "height": 720
+        },
+        "uhd": {
+          "url": "https://i.ytimg.com/vi/L7wcBl6FjPc/uhddefault.jpg",
+          "width": 3840,
+          "height": 2160
         }
       }
     },
